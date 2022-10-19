@@ -1,0 +1,39 @@
+body {
+  background-color: #EEE;
+  text-align: center;
+  padding: 30px;
+}
+
+input[type="button"] {
+	position: relative;
+	top: 50%;
+	margin-top: 10px;
+	border: none;
+	background-color: transparent;
+	outline:none;
+	display: inline-block;
+	width: 300px;
+	height: 130px;
+}
+
+.qrtxt {
+  text-align: center;
+  font: bold 40px arial;
+  background-color: #990099;
+  color: #FFFF00;
+}
+
+.read_on {
+	background-image: url('sprite.png');
+	background-position: 0px 0px;
+}
+.read_off {
+	background-image: url('sprite.png');
+	background-position: -300px 0px;
+}
+
+/* Define dial size */
+#dial {
+  width: 300px;
+  height: 300px;
+}

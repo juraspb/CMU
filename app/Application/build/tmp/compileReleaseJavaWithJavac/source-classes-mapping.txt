@@ -1,0 +1,22 @@
+ru/juraspb/qrrd/common/activities/SampleActivityBase.java
+ ru.juraspb.qrrd.common.activities.SampleActivityBase
+ru/juraspb/qrrd/qrreader/BluetoothService.java
+ ru.juraspb.qrrd.qrreader.BluetoothService
+ ru.juraspb.qrrd.qrreader.BluetoothService$ConnectThread
+ ru.juraspb.qrrd.qrreader.BluetoothService$ConnectedThread
+ru/juraspb/qrrd/qrreader/DeviceListActivity.java
+ ru.juraspb.qrrd.qrreader.DeviceListActivity
+ ru.juraspb.qrrd.qrreader.DeviceListActivity$1
+ ru.juraspb.qrrd.qrreader.DeviceListActivity$2
+ ru.juraspb.qrrd.qrreader.DeviceListActivity$3
+ru/juraspb/qrrd/qrreader/BuildConfig.java
+ ru.juraspb.qrrd.qrreader.BuildConfig
+ru/juraspb/qrrd/qrreader/Constants.java
+ ru.juraspb.qrrd.qrreader.Constants
+ru/juraspb/qrrd/qrreader/MainActivity.java
+ ru.juraspb.qrrd.qrreader.MainActivity
+ru/juraspb/qrrd/qrreader/CMUCtrlFragment.java
+ ru.juraspb.qrrd.qrreader.CMUCtrlFragment
+ ru.juraspb.qrrd.qrreader.CMUCtrlFragment$1
+ ru.juraspb.qrrd.qrreader.CMUCtrlFragment$2
+ ru.juraspb.qrrd.qrreader.CMUCtrlFragment$3
