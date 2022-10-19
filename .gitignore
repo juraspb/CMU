@@ -31,5 +31,5 @@
 *.out
 *.app
 
-app/Application/build/
+build/
 mc411/
