@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--  Bluetooth -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+    <string name="title_listen">listen</string>
+    <string name="scanning">scanning for devices...</string>
+
+    <!--  DeviceListActivity -->
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="secure_connect">Connect</string>
+
+    <!-- Buttons -->
+    <string name="Music">Music</string>
+    <string name="Dynamic">Dynamic</string>
+    <string name="rainbow">RNBW</string>
+    <string name="mix">MIX</string>
+    <string name="midland">NODAL</string>
+    <string name="magic">MAGIC</string>
+    <string name="charm">CHARM</string>
+    <string name="allure">ALLURE</string>
+    <string name="wind">WIND</string>
+    <string name="level">LEVEL</string>
+    <string name="tale">DREAM</string>
+    <string name="flow">FLOW</string>
+    <string name="fantasy">FANCY</string>
+    <string name="blizzard">STORM</string>
+    <string name="save_settings">Save</string>
+    <string name="default_state">Default</string>
+    <string name="direction">Direction</string>
+    <string name="random">PlayList</string>
+    <string name="control">Control</string>
+    <string name="bright">Bright</string>
+    <string name="speed">Speed</string>
+    <string name="color">Color</string>
+    <string name="light">Light</string>
+    <string name="cool">Cool</string>
+    <string name="warm">Warm</string>
+    <string name="onoff">OFF</string>
+    <string name="led">Led</string>
+    <string name="bp">BP</string>
+    <string name="add">ADD</string>
+    <string name="clap">CLAP</string>
+    <string name="gain">GAIN</string>
+    <string name="msgAddPlayList">Add to PlayList</string>
+    <string name="msgResetPlayList">Reset PlayList</string>
+    <string name="msgSetBP">Set number of color bars</string>
+    <string name="msgSetLED">Set the number of LEDs</string>
+    <string name="largo">Largo</string>
+    <string name="fast">Vivo</string>
+    <string name="common">Common</string>
+    <string name="oft">Oft</string>
+    <string name="rarely">Rarely</string>
+
+</resources>

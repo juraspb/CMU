@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Цветомузыка IoT (@juraspb)</string>
+
+    <!--  Bluetooth -->
+    <string name="not_connected">Нет подключения к устройству</string>
+    <string name="send">Передача</string>
+    <string name="bt_not_enabled_leaving">Bluetooth не включён</string>
+    <string name="title_connecting">подключение...</string>
+    <string name="title_connected_to">подключено к <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_listen">слушаем</string>
+    <string name="scanning">ищем устройства...</string>
+    <string name="secure_connect">Connect</string>
+
+    <!--  DeviceListActivity -->
+    <string name="button_scan">Поиск устройств</string>
+    <string name="title_paired_devices">Связанные устройства</string>
+    <string name="title_other_devices">"Другие доступные устройства "</string>
+    <string name="none_found">Устройств не найдено</string>
+    <string name="none_paired">Не найдено сопряжённых</string>
+    <string name="select_device">выберите устройство</string>
+    <string name="title_not_connected">не подключено</string>
+
+    <!-- Buttons -->
+    <string name="Dynamic">Динам.</string>
+    <string name="Music">Музыкальные</string>
+    <string name="rainbow">Радуга</string>
+    <string name="mix">МИКС</string>
+    <string name="midland">СТАВР</string>
+    <string name="fantasy">Каприз</string>
+    <string name="magic">Магия</string>
+    <string name="charm">ШАРМ</string>
+    <string name="level">Шкала</string>
+    <string name="tale">Мечта</string>
+    <string name="flow">Галоп</string>
+    <string name="wind">Ветер</string>
+    <string name="blizzard">Бриз</string>
+    <string name="allure">Аллюр</string>
+    <string name="direction">Направление</string>
+    <string name="random">Список</string>
+    <string name="control">Настройка</string>
+    <string name="bright">Яркость</string>
+    <string name="speed">Темп</string>
+    <string name="color">Цвет</string>
+    <string name="light">Свет</string>
+    <string name="save_settings">SAVE</string>
+    <string name="default_state">Конфигурация</string>
+    <string name="cool">Холод</string>
+    <string name="warm">Тепло</string>
+    <string name="onoff">OFF</string>
+    <string name="led">Led</string>
+    <string name="bp">BP</string>
+    <string name="add">ADD</string>
+    <string name="clap">Хлоп</string>
+    <string name="gain">Усиление</string>
+    <string name="msgAddPlayList">Add to PlayList</string>
+    <string name="msgResetPlayList">Reset PlayList</string>
+    <string name="msgSetBP">Set number of color bars</string>
+    <string name="msgSetLED">Set the number of LEDs</string>
+    <string name="largo">Плавно</string>
+    <string name="fast">Живо</string>
+    <string name="common">Общие</string>
+    <string name="oft">Часто</string>
+    <string name="rarely">Редко</string>
+
+</resources>
