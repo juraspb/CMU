@@ -36,9 +36,9 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-const uint32_t fftSize = 1024;
-const uint32_t ifftFlag = 0;
-const uint32_t doBitReverse = 1;
+#define fftSize 1024
+#define ifftFlag 0
+#define doBitReverse 1
 
 const char strLF[] = "\r\n";
 const char strAT[] = "AT\r\n";
